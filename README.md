@@ -3,7 +3,6 @@ low-cost vibration analysis systems
 Aim of this project is to say something about the health status of the used printer
 
 ## FabLab Darmstadt and Open Adaptronik
-I am student.
 I work for FabLab Darmstadt and the project OpenAdaptronik
 
 ## FreeCAD
@@ -14,4 +13,5 @@ Please have a look at
 
 ## Scilab
 Scilab was used to process data.
-Please have a look at [Scilab](https://www.scilab.org/"Scilab home page") for more information.
+Please have a look at
+[Scilab](https://www.scilab.org/ "Scilab home page") for more information.
